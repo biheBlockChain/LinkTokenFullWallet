@@ -1,4 +1,3 @@
-
 # Created by https://www.gitignore.io/api/csharp,aspnetcore,visualstudio
 # Edit at https://www.gitignore.io/?templates=csharp,aspnetcore,visualstudio
 
@@ -628,3 +627,5 @@ MigrationBackup/
 # Backup folder for Package Reference Convert tool in Visual Studio 2017
 
 # End of https://www.gitignore.io/api/csharp,aspnetcore,visualstudio
+/PublishKit
+/packages
